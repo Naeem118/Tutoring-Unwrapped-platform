@@ -1,7 +1,3 @@
-<div align="center">
-  <h2>EduHOME</h2>
-  <img src="https://github.com/Naeem118/eduhome/blob/main/Project_Home.jpg" alt="EduHomeLanding" width="30%" height="25%">
-</div>
 
 
 ## About The Project
